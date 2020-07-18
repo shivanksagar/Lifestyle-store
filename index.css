@@ -39,3 +39,8 @@ div .thumbnail img.img-height-cover {
         height: 16rem;
         object-fit: cover;
 }
+
+.bg-red-nav {
+        background: #c9302c !important;
+        color: #fff !important;
+}
